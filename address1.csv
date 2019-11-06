@@ -1,0 +1,589 @@
+,0
+0,0
+1,Wellesley St E 
+2,Kendal Ave 
+3,Parliament St 
+4,College Park South
+5,McGill St 
+6,Bay St 
+7,Beverly St 
+8,Ulster St 
+9,Widmer St 
+10,King St E 
+11,Augusta Ave 
+12,East Liberty St 
+13,Bond St 
+14,King St W 
+15,Simcoe St 
+16,Gould St 
+17,Dundas St 
+18,Davenport Rd 
+19,Sherbourne St 
+20,King St W 
+21,University Ave 
+22,Yonge St 
+23,Victoria St 
+24,Richmond St E 
+25,Summerhill Station
+26,Harbord St 
+27,25 York St (ACC
+28,Front St W 
+29,University Ave 
+30,College St W 
+31,Bremner Blvd 
+32,Navy Wharf Ct. 
+33,Dundas St E 
+34,Niagara St 
+35,Chester Station
+36,Union Station
+37,Church St 
+38,Palmerston Ave 
+39,Queen St W 
+40,Danforth Ave 
+41,Simcoe St 
+42,Bay St 
+43,University Ave 
+44,Simcoe St 
+45,Bay St 
+46,Niagara St 
+47,Front St 
+48,Bathurst St 
+49,Queen St W 
+50,Madison Ave 
+51,Fort York  Blvd 
+52,College St W 
+53,Church St 
+54,Dundas St E 
+55,Front St 
+56,King St W 
+57,Queens Quay 
+58,Temperance St 
+59,King St W 
+60,Bay St 
+61,Wellington St W 
+62,Seaton St 
+63,Dundas St W 
+64,Princess St 
+65,Queen St W 
+66,Wellington St W 
+67,Jarvis St 
+68,Bloor St W 
+69,Queen St W 
+70,Beverly  St 
+71,Nelson St 
+72,Bay St 
+73,Queen St W 
+74,Queens Quay W 
+75,Scott St 
+76,Bathurst St 
+77,St George St 
+78,Bay St 
+79,Phoebe St 
+80,Lower Sherbourne St 
+81,Roxton Rd 
+82,Yonge St 
+83,51 Parliament St
+84,Gerrard St E 
+85,424 Wellington St. W
+86,Ontario Place Blvd 
+87,King St W 
+88,Dockside Dr 
+89,Sherbourne St 
+90,Queen St W 
+91,Wellington St W 
+92,College St W 
+93,Bathurst St 
+94,Jarvis St 
+95,Spadina Ave 
+96,Jarvis St 
+97,York St 
+98,Parliament St 
+99,Mary McCormick Rec Centre (Sheridan Ave)
+100,Edward St 
+101,Danforth Ave 
+102,Bremner Blvd 
+103,Queen St W 
+104,College St W 
+105,Queen St E 
+106,Castle Frank Station
+107,Cariboo St 
+108,Yarmouth Rd 
+109,Augusta Ave 
+110,Trinity St 
+111,Ted Rogers Way 
+112,Davenport Rd 
+113,King St W 
+114,Bay St 
+115,Danforth Ave 
+116,HTO Park (Queen's Quay W)
+117,Church St  
+118,Howard St 
+119,King St E 
+120,Riverdale Park North (Broadview Ave)
+121,Dundonald St 
+122,Queen St W 
+123,Queens Park 
+124,St. George St 
+125,Yonge St 
+126,Salem Ave 
+127,Elizabeth St 
+128,Metro Hall Plaza
+129,Hanna Ave 
+130,Carlton St 
+131,Wellesley St 
+132,College St W 
+133,Strachan Ave 
+134,Riverdale Park South (Broadview Ave)
+135,Parliament St 
+136,Hayter St 
+137,Bloor St W 
+138,Bloor St 
+139,80 Clinton St (North of College)
+140,King St W 
+141,Jimmie Simpson Park (Queen St E)
+142,Lower Jarvis St 
+143,Rusholme Park Cres 
+144,Queens Quay W 
+145,Euclid Ave 
+146,Huron
+147,Exhibition GO (Atlantic Ave)
+148,Willcocks St 
+149,Fort York Blvd 
+150,Cherry St 
+151,Christie St 
+152,Macpherson Ave 
+153,King St W 
+154,Glen Edyth Dr 
+155,161 Bleecker St (South of Wellesley)
+156,Sumach St 
+157,Front St E 
+158,Cherry St 
+159,Queen St E 
+160,University Ave 
+161,Queen St E 
+162,Danforth Ave 
+163,Pape Subway Green P
+164,Margueretta St 
+165,Bathurst St 
+166,Central Tech  (Harbord St)
+167,Ossington Ave 
+168,Sterling Rd 
+169,Kendal Ave 
+170,Spadina Ave 
+171,Donlands Station
+172,Queen St W 
+173,Dufferin St 
+174,Ossington Ave 
+175,Dundas St E 
+176,Ossington Ave 
+177,Boston Ave 
+178,Bathurst Subway Station
+179,Liberty St 
+180,Bridgeman Ave 
+181,Claremont St 
+182,Taddle Creek Park
+183,Bloor GO 
+184,Stephenson Ave 
+185,Essex St 
+186,Bridgeman Ave 
+187,Dufferin St 
+188,Mill St 
+189,Davenport Rd 
+190,Landsdowne Subway Green P
+191,Davenport Rd 
+192,Dundas St W 
+193,Yonge St 
+194,Marlborough Ave 
+195,Mortimer Ave 
+196,Woodbine Subway Green P (Cedarvale Ave)
+197,Danforth Ave 
+198,Danforth Ave 
+199,Danforth Ave 
+200,Lansdowne Ave 
+201,Princess St 
+202,Widmer St 
+203,Michael Sweet Ave 
+204,Sherbourne St 
+205,HTO Park (Queens Quay W)
+206,College St 
+207,Beverly St 
+208,College St 
+209,Ossington Ave 
+210,College St 
+211,Wellesley St E 
+212,St. George St 
+213,College St 
+214,424 Wellington St W
+215,Margueretta St 
+216,Lansdowne Subway Green P
+217,Dundas St W 
+218,Front St W 
+219,Bloor GO 
+220,Front St W 
+221,College St 
+222,Rusholme Park Cres 
+223,Queen St E 
+224,The Royal Ontario Museum (Bloor St Entrance)
+225,Spadina Ave 
+226,Dundas St W 
+227,Front St W 
+228,Lower Spadina Ave 
+229,Bloor St W 
+230,Roxton Rd 
+231,Bloor St W 
+232,Base Station
+233,Humber Bay Shores Park East
+234,Lakeshore Blvd W 
+235,Lakeshore Blvd W 
+236,Ward Ave 
+237,Humber Bay Shores Park West
+238,Lake Shore Blvd W 
+239,Sunnyside - Gus Ryder Pool
+240,Martin Goodman Trail (Marilyn Bell Park)
+241,High Park Subway Station
+242,Queen St W 
+243,Lake Shore Blvd W 
+244,Toronto Eaton Centre (Yonge St)
+245,Queen St W 
+246,Roncesvalles Ave 
+247,Garden Ave 
+248,Dufferin Gate - SMART
+249,Queen St W  
+250,Dundas St W 
+251,Sorauren
+252,Howard Park Ave 
+253,Wallace Ave 
+254,St. George St 
+255,Tecumseth St 
+256,Parkside Dr 
+257,Thompson St 
+258,Dundas St E 
+259,Baldwin Ave 
+260,Queen's Park Cres E 
+261,Bay St 
+262,Gerrard St E 
+263,King 
+264,Church St 
+265,Queen St E 
+266,Walton St 
+267,Rosehill Ave 
+268,111 Bond St (North of Dundas St E)  - SMART
+269,John St  
+270,Victoria Park Subway Station - SMART
+271,Bay St 
+272,Charles St W 
+273,Charles St E 
+274,Chorley Park - SMART
+275,Wright 
+276,Yonge St 
+277,519 Church St - SMART
+278,Borden St 
+279,Stewart St 
+280,Bloor St E 
+281,Wychwood Ave 
+282,Yonge St 
+283,Adelaide St W 
+284,Bloor St W 
+285,Robert St 
+286,York St 
+287,Spadina Ave 
+288,Dovercourt Rd 
+289,Vanauley St 
+290,Summerhill Ave 
+291,Bloor St W 
+292,Exhibition GO Station
+293,Fringe Next Stage - 7219
+294,Church St  
+295,Bathurst Subway Station
+296,College St W 
+297,King St W 
+298,University Ave 
+299,Niagara St 
+300,Bathurst St 
+301,Bathurst St 
+302,Lower Sherbourne St 
+303,University Ave 
+304,Bay St 
+305,25 York St (ACC
+306,King St W 
+307,Princess St 
+308,East Liberty St 
+309,Union Station
+310,Victoria St 
+311,Dundas St E 
+312,Dundas St 
+313,Jarvis St 
+314,Navy Wharf Ct. 
+315,Edward St 
+316,Bond St 
+317,Queens Quay W 
+318,Queen St W 
+319,Rusholme Park Cres 
+320,Fort York  Blvd 
+321,80 Clinton St (North of College)
+322,Yonge St 
+323,Queen St W 
+324,Seaton St 
+325,Church St 
+326,Euclid Ave 
+327,Sherbourne St 
+328,Dundonald St 
+329,Bay St 
+330,Queen St W 
+331,Boston Ave 
+332,Simcoe St 
+333,Simcoe St 
+334,Strachan Ave 
+335,Queen St W 
+336,Queen St E 
+337,Beverly  St 
+338,Dundas St W 
+339,Bay St 
+340,King St W 
+341,Queen St W 
+342,424 Wellington St. W
+343,Madison Ave 
+344,Bloor St 
+345,Nelson St 
+346,Simcoe St 
+347,Richmond St E 
+348,Temperance St 
+349,Bremner Blvd 
+350,King St W 
+351,Front St E 
+352,Bay St 
+353,Bremner Blvd 
+354,King St W 
+355,Augusta Ave 
+356,Dundas St E 
+357,Queen St W 
+358,Wellington St W 
+359,Howard St 
+360,Queen St E 
+361,Wellesley St E 
+362,Widmer St 
+363,Bloor St W 
+364,College St W 
+365,Liberty St 
+366,Front St W 
+367,Gould St 
+368,Ted Rogers Way 
+369,Church St 
+370,Jarvis St 
+371,Bathurst St 
+372,Metro Hall Plaza
+373,College Park South
+374,Elizabeth St 
+375,Queens Quay 
+376,King St E 
+377,Trinity St 
+378,Ontario Place Blvd 
+379,Dockside Dr 
+380,Exhibition GO (Atlantic Ave)
+381,HTO Park (Queen's Quay W)
+382,University Ave 
+383,Summerhill Station
+384,Parliament St 
+385,Jarvis St 
+386,Augusta Ave 
+387,Queen St W 
+388,Castle Frank Station
+389,Cariboo St 
+390,Hanna Ave 
+391,Bay St 
+392,King St W 
+393,King St E 
+394,Riverdale Park North (Broadview Ave)
+395,Beverly St 
+396,College St W 
+397,Queens Quay W 
+398,Scott St 
+399,161 Bleecker St (South of Wellesley)
+400,Phoebe St 
+401,University Ave 
+402,Niagara St 
+403,Chester Station
+404,Wellesley St 
+405,Queens Park 
+406,Front St 
+407,Yonge St 
+408,College St W 
+409,Ulster St 
+410,Danforth Ave 
+411,St George St 
+412,Sumach St 
+413,Lower Jarvis St 
+414,York St 
+415,Parliament St 
+416,Kendal Ave 
+417,Sherbourne St 
+418,Gerrard St E 
+419,Riverdale Park South (Broadview Ave)
+420,Roxton Rd 
+421,Queen St W 
+422,Jimmie Simpson Park (Queen St E)
+423,Carlton St 
+424,Palmerston Ave 
+425,Salem Ave 
+426,St. George St 
+427,College St W 
+428,Taddle Creek Park
+429,Willcocks St 
+430,Yarmouth Rd 
+431,Wellington St W 
+432,Ossington Ave 
+433,Yonge St 
+434,Danforth Ave 
+435,King St W 
+436,Danforth Ave 
+437,Donlands Station
+438,Central Tech  (Harbord St)
+439,Queen St E 
+440,Fort York Blvd 
+441,Huron
+442,Front St 
+443,Bridgeman Ave 
+444,Wellington St W 
+445,Marlborough Ave 
+446,Margueretta St 
+447,Cherry St 
+448,Cherry St 
+449,Spadina Ave 
+450,Davenport Rd 
+451,Mary McCormick Rec Centre (Sheridan Ave)
+452,Kendal Ave 
+453,King St W 
+454,Sterling Rd 
+455,Spadina Ave 
+456,Parliament St 
+457,Claremont St 
+458,Bay St 
+459,Harbord St 
+460,Dundas St E 
+461,Bathurst St 
+462,McGill St 
+463,Queen St W 
+464,51 Parliament St
+465,Macpherson Ave 
+466,Danforth Ave 
+467,Dufferin St 
+468,Christie St 
+469,Bloor St W 
+470,Dufferin St 
+471,Hayter St 
+472,Davenport Rd 
+473,Essex St 
+474,Glen Edyth Dr 
+475,Ossington Ave 
+476,Ossington Ave 
+477,Landsdowne Subway Green P
+478,Davenport Rd 
+479,Stephenson Ave 
+480,Yonge St 
+481,Bloor GO 
+482,Bay St 
+483,Davenport Rd 
+484,Mill St 
+485,Dundas St W 
+486,Danforth Ave 
+487,Bridgeman Ave 
+488,Lansdowne Ave 
+489,Mortimer Ave 
+490,Danforth Ave 
+491,Pape Subway Green P
+492,Danforth Ave 
+493,Woodbine Subway Green P (Cedarvale Ave)
+494,424 Wellington St W
+495,HTO Park (Queens Quay W)
+496,Dundas St W 
+497,Wellesley St E 
+498,College St 
+499,Princess St 
+500,College St 
+501,Beverly St 
+502,Widmer St 
+503,College St 
+504,Sherbourne St 
+505,Michael Sweet Ave 
+506,St. George St 
+507,Front St W 
+508,Rusholme Park Cres 
+509,Ossington Ave 
+510,Front St W 
+511,College St 
+512,Margueretta St 
+513,Lansdowne Subway Green P
+514,College St 
+515,Bloor GO 
+516,Queen St E 
+517,The Royal Ontario Museum (Bloor St Entrance)
+518,Spadina Ave 
+519,Dundas St W 
+520,Lower Spadina Ave 
+521,Bloor St W 
+522,Roxton Rd 
+523,Front St W 
+524,Bloor St W 
+525,Humber Bay Shores Park East
+526,Lakeshore Blvd W 
+527,Lakeshore Blvd W 
+528,Humber Bay Shores Park West
+529,Sunnyside - Gus Ryder Pool
+530,Lake Shore Blvd W 
+531,Martin Goodman Trail (Marilyn Bell Park)
+532,Ward Ave 
+533,Lake Shore Blvd W 
+534,High Park Subway Station
+535,Queen St W 
+536,Toronto Eaton Centre (Yonge St)
+537,Garden Ave 
+538,Queen St W 
+539,Roncesvalles Ave 
+540,Exhibition GO Station
+541,Dufferin Gate - SMART
+542,Queen St W  
+543,King 
+544,Dundas St W 
+545,Parkside Dr 
+546,Howard Park Ave 
+547,Sorauren
+548,Wallace Ave 
+549,Queen's Park Cres E 
+550,St. George St 
+551,Tecumseth St 
+552,Baldwin Ave 
+553,Thompson St 
+554,Queen St E 
+555,Dundas St E 
+556,Bay St 
+557,Church St 
+558,Gerrard St E 
+559,111 Bond St (North of Dundas St E)  - SMART
+560,Walton St 
+561,John St  
+562,Rosehill Ave 
+563,Victoria Park Subway Station - SMART
+564,Bay St 
+565,Charles St E 
+566,Charles St W 
+567,Summerhill Ave 
+568,Chorley Park - SMART
+569,Wright 
+570,Yonge St 
+571,519 Church St - SMART
+572,Borden St 
+573,Yonge St 
+574,Wychwood Ave 
+575,Adelaide St W 
+576,Robert St 
+577,York St 
+578,Stewart St 
+579,Bloor St E 
+580,Bloor St W 
+581,Spadina Ave 
+582,Dovercourt Rd 
+583,Vanauley St 
+584,Bloor St W 
+585,Base Station
+586,Fringe Next Stage - 7219
+587,
